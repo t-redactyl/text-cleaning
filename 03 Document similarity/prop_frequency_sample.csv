@@ -1,76 +1,16 @@
-,titles,term,frequency
-0,"The Frog-King, or Iron Henry",say,2.48490664979
-1,Cat and Mouse in Partnership,say,2.7080502011
-2,Our Lady's Child,say,3.04452243772
-3,The Story of the Youth who Went Forth to Learn What Fear Was,say,3.95124371858
-4,The Wolf and The Seven Little Kids,say,2.30258509299
-5,"The Frog-King, or Iron Henry",go,2.19722457734
-6,Cat and Mouse in Partnership,go,2.3978952728
-7,Our Lady's Child,go,2.30258509299
-8,The Story of the Youth who Went Forth to Learn What Fear Was,go,3.66356164613
-9,The Wolf and The Seven Little Kids,go,2.30258509299
-10,"The Frog-King, or Iron Henry",will,1.60943791243
-11,Cat and Mouse in Partnership,will,2.48490664979
-12,Our Lady's Child,will,2.3978952728
-13,The Story of the Youth who Went Forth to Learn What Fear Was,will,3.25809653802
-14,The Wolf and The Seven Little Kids,will,2.07944154168
-15,"The Frog-King, or Iron Henry",thou,2.8903717579
-16,Cat and Mouse in Partnership,thou,0.0
-17,Our Lady's Child,thou,3.09104245336
-18,The Story of the Youth who Went Forth to Learn What Fear Was,thou,3.61091791264
-19,The Wolf and The Seven Little Kids,thou,1.79175946923
-20,"The Frog-King, or Iron Henry",come,1.94591014906
-21,Cat and Mouse in Partnership,come,1.38629436112
-22,Our Lady's Child,come,1.79175946923
-23,The Story of the Youth who Went Forth to Learn What Fear Was,come,3.33220451018
-24,The Wolf and The Seven Little Kids,come,2.30258509299
-25,"The Frog-King, or Iron Henry",little,2.3978952728
-26,Cat and Mouse in Partnership,little,1.38629436112
-27,Our Lady's Child,little,2.56494935746
-28,The Story of the Youth who Went Forth to Learn What Fear Was,little,2.3978952728
-29,The Wolf and The Seven Little Kids,little,1.94591014906
-30,"The Frog-King, or Iron Henry",can,1.94591014906
-31,Cat and Mouse in Partnership,can,0.69314718056
-32,Our Lady's Child,can,2.48490664979
-33,The Story of the Youth who Went Forth to Learn What Fear Was,can,3.33220451018
-34,The Wolf and The Seven Little Kids,can,1.09861228867
-35,"The Frog-King, or Iron Henry",take,1.79175946923
-36,Cat and Mouse in Partnership,take,1.09861228867
-37,Our Lady's Child,take,2.3978952728
-38,The Story of the Youth who Went Forth to Learn What Fear Was,take,2.77258872224
-39,The Wolf and The Seven Little Kids,take,1.38629436112
-40,"The Frog-King, or Iron Henry",see,2.07944154168
-41,Cat and Mouse in Partnership,see,1.09861228867
-42,Our Lady's Child,see,1.79175946923
-43,The Story of the Youth who Went Forth to Learn What Fear Was,see,2.63905732962
-44,The Wolf and The Seven Little Kids,see,1.79175946923
-45,"The Frog-King, or Iron Henry",cry,2.19722457734
-46,Cat and Mouse in Partnership,cry,1.09861228867
-47,Our Lady's Child,cry,1.38629436112
-48,The Story of the Youth who Went Forth to Learn What Fear Was,cry,2.3978952728
-49,The Wolf and The Seven Little Kids,cry,2.19722457734
-50,"The Frog-King, or Iron Henry",thy,2.7080502011
-51,Cat and Mouse in Partnership,thy,0.0
-52,Our Lady's Child,thy,2.48490664979
-53,The Story of the Youth who Went Forth to Learn What Fear Was,thy,2.3978952728
-54,The Wolf and The Seven Little Kids,thy,1.09861228867
-55,"The Frog-King, or Iron Henry",well,2.19722457734
-56,Cat and Mouse in Partnership,well,1.38629436112
-57,Our Lady's Child,well,1.60943791243
-58,The Story of the Youth who Went Forth to Learn What Fear Was,well,1.60943791243
-59,The Wolf and The Seven Little Kids,well,1.38629436112
-60,"The Frog-King, or Iron Henry",child,1.09861228867
-61,Cat and Mouse in Partnership,child,1.79175946923
-62,Our Lady's Child,child,2.94443897917
-63,The Story of the Youth who Went Forth to Learn What Fear Was,child,0.0
-64,The Wolf and The Seven Little Kids,child,2.30258509299
-65,"The Frog-King, or Iron Henry",thee,2.48490664979
-66,Cat and Mouse in Partnership,thee,0.0
-67,Our Lady's Child,thee,1.60943791243
-68,The Story of the Youth who Went Forth to Learn What Fear Was,thee,2.8903717579
-69,The Wolf and The Seven Little Kids,thee,1.09861228867
-70,"The Frog-King, or Iron Henry",open,1.79175946923
-71,Cat and Mouse in Partnership,open,0.0
-72,Our Lady's Child,open,2.63905732962
-73,The Story of the Youth who Went Forth to Learn What Fear Was,open,1.38629436112
-74,The Wolf and The Seven Little Kids,open,2.19722457734
+term,frequency
+say,9.01499689435
+go,8.73324564653
+come,8.4265490724
+will,8.33236920593
+thou,8.31388683163
+king,8.08924315503
+take,8.03790596345
+see,7.94505106373
+can,7.91174730025
+little,7.90274273716
+give,7.74405918631
+man,7.63463335786
+get,7.57228254269
+away,7.55108033504
+thee,7.47697236289
