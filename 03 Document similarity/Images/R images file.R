@@ -32,5 +32,8 @@ ggplot(tales, aes(x = term, y = frequency)) +
   theme_bw() 
 
 # Frequency of 'say' in all tales
+csay = read.csv("/Users/jodieburchell/Documents/text-mining/03 Document similarity/say_count.csv",
+                header = TRUE)
 
-
+ggplot(csay, aes(x = count)) +
+  geom_histogram(binwidth = 3)
