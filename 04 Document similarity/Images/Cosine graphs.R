@@ -1,4 +1,5 @@
 library(ggplot2)
+library(RColorBrewer)
 
 x = data.frame(x = 1, y = 1)
 bcolours <- brewer.pal(8, "Set2")
